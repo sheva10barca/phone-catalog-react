@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "./static/css/main.00c650f8.chunk.css",
+    "main.js": "./static/js/main.bab20d57.chunk.js",
+    "main.js.map": "./static/js/main.bab20d57.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.85243e80.chunk.js": "./static/js/2.85243e80.chunk.js",
+    "static/js/2.85243e80.chunk.js.map": "./static/js/2.85243e80.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.00c650f8.chunk.css.map": "./static/css/main.00c650f8.chunk.css.map",
+    "static/js/2.85243e80.chunk.js.LICENSE.txt": "./static/js/2.85243e80.chunk.js.LICENSE.txt",
+    "static/media/6134065.41ade0ad.png": "./static/media/6134065.41ade0ad.png",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/DropDown.scss": "./static/media/arrow-up.bca5376b.svg",
+    "static/media/arrow-left.7e79118d.svg": "./static/media/arrow-left.7e79118d.svg",
+    "static/media/arrow-right-gray.a374b573.svg": "./static/media/arrow-right-gray.a374b573.svg",
+    "static/media/arrow-right.079e7aa2.svg": "./static/media/arrow-right.079e7aa2.svg",
+    "static/media/banner1.b4eeda8b.png": "./static/media/banner1.b4eeda8b.png",
+    "static/media/banner2.bdd2e0fc.png": "./static/media/banner2.bdd2e0fc.png",
+    "static/media/banner3.a962057c.png": "./static/media/banner3.a962057c.png",
+    "static/media/burger__menu.7eed0fb5.svg": "./static/media/burger__menu.7eed0fb5.svg",
+    "static/media/ShopByCategory.scss": "./static/media/category-tablets.51782e18.png",
+    "static/media/Search.scss": "./static/media/cross.0be1ed2a.svg",
+    "static/media/error.25000083.svg": "./static/media/error.25000083.svg",
+    "static/media/Header.scss": "./static/media/shopping-bag.499582d5.svg",
+    "static/media/footer-button.470683b8.svg": "./static/media/footer-button.470683b8.svg",
+    "static/media/AddToFavButton.scss": "./static/media/heart.857e9a09.svg",
+    "static/media/home.f28213b9.svg": "./static/media/home.f28213b9.svg",
+    "static/media/logo.839aa95d.svg": "./static/media/logo.839aa95d.svg",
+    "static/media/search.1e77bbf1.svg": "./static/media/search.1e77bbf1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.85243e80.chunk.js",
+    "static/css/main.00c650f8.chunk.css",
+    "static/js/main.bab20d57.chunk.js"
+  ]
+}
